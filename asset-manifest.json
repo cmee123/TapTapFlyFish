@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TapTapFlyFish/static/css/main.a57af267.css",
-    "main.js": "/TapTapFlyFish/static/js/main.2e779348.js",
+    "main.js": "/TapTapFlyFish/static/js/main.dd81b460.js",
     "static/media/IMG_5656.jpg": "/TapTapFlyFish/static/media/IMG_5656.7a37ef365b1f4fd953d1.jpg",
     "static/media/brown.png": "/TapTapFlyFish/static/media/brown.7b6b7fa552ab446c5c6c.png",
     "static/media/c9ed64_~mv2.png": "/TapTapFlyFish/static/media/c9ed64_0ea1c91073ad4b758866ae5821f122e1~mv2.1d073aea59f092b3a3a3.png",
@@ -14,10 +14,10 @@
     "static/media/—Pngtree—vector question mark icon_3989724.png": "/TapTapFlyFish/static/media/—Pngtree—vector question mark icon_3989724.8a99bbe71f44461e2e06.png",
     "index.html": "/TapTapFlyFish/index.html",
     "main.a57af267.css.map": "/TapTapFlyFish/static/css/main.a57af267.css.map",
-    "main.2e779348.js.map": "/TapTapFlyFish/static/js/main.2e779348.js.map"
+    "main.dd81b460.js.map": "/TapTapFlyFish/static/js/main.dd81b460.js.map"
   },
   "entrypoints": [
     "static/css/main.a57af267.css",
-    "static/js/main.2e779348.js"
+    "static/js/main.dd81b460.js"
   ]
 }
